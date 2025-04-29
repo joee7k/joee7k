@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src= https://github.com/featjoectt />
-&nbsp;&nbsp;&nbsp;
+
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. </p>&nbsp;
